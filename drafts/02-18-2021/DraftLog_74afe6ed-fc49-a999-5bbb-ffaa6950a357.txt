@@ -1,0 +1,467 @@
+Event #: 2487ce754105_1613620739504
+Time: Thu, 18 Feb 2021 03:58:59 GMT
+Players:
+    Chronosmash
+    MI6S
+    MrGrieves
+    Mr. Bamforth
+    Allen
+    VonDYANA
+--> Shnuu
+
+------ KHM ------
+
+Pack 1 pick 1:
+    Heroic Intervention
+    Demonic Tutor
+    Capsize
+    Narset, Parter of Veils
+    Realm-Cloaked Giant // Cast Off
+    Clan Defiance
+    Mana Tithe
+    Aurelia's Fury
+--> Sheoldred, Whispering One
+    Bloodstained Mire
+    Zurgo Bellstriker
+    Buried Alive
+    Imperial Recruiter
+    Wasteland
+    Mirrodin's Core
+
+Pack 1 pick 2:
+    Gurmag Angler
+    Blast Zone
+    Everflowing Chalice
+    Hostage Taker
+    Fervent Champion
+    Leovold, Emissary of Trest
+    Adarkar Wastes
+    Blightsteel Colossus
+    Elspeth Conquers Death
+    Eureka
+    Carrion Feeder
+--> Daretti, Scrap Savant
+    Dark Confidant
+    Collective Brutality
+
+Pack 1 pick 3:
+    Languish
+    Deceiver Exarch
+    Mox Diamond
+    Birthing Pod
+    Trygon Predator
+    Porcelain Legionnaire
+    Thirst for Knowledge
+--> Grave Titan
+    Flooded Strand
+    Keldon Marauders
+    Zirda, the Dawnwaker
+    Moat
+    Branchloft Pathway // Boulderloft Pathway
+
+Pack 1 pick 4:
+    Cragcrown Pathway // Timbercrown Pathway
+    Eladamri's Call
+    Rhythm of the Wild
+    Merfolk Looter
+    Hornet Queen
+    Yahenni, Undying Partisan
+    Mystic Confluence
+    Needle Spires
+    Kari Zev, Skyship Raider
+    Talisman of Unity
+    Spellseeker
+--> Worn Powerstone
+
+Pack 1 pick 5:
+    Dualcaster Mage
+    Elvish Piper
+    Sensei's Divining Top
+    Regicide
+    Ravages of War
+    Avenger of Zendikar
+    Talisman of Impulse
+    Search for Azcanta // Azcanta, the Sunken Ruin
+    Into the Roil
+--> Rakdos Signet
+    Kitesail Freebooter
+
+Pack 1 pick 6:
+    The Royal Scions
+    Inkwell Leviathan
+    Xenagos, God of Revels
+    Thran Dynamo
+    Grand Abolisher
+--> Hellrider
+    Flame Slash
+    Deep Forest Hermit
+    Bloodsoaked Champion
+    Settle the Wreckage
+
+Pack 1 pick 7:
+    Sprite Dragon
+    Liliana, Heretical Healer // Liliana, Defiant Necromancer
+    Spectral Procession
+    Wilt
+    Scrapheap Scrounger
+    Dauntless Bodyguard
+    Fiery Confluence
+    Nighthawk Scavenger
+--> Dark Ritual
+
+Pack 1 pick 8:
+    Realm-Cloaked Giant // Cast Off
+    Mana Tithe
+    Aurelia's Fury
+    Zurgo Bellstriker
+    Buried Alive
+--> Imperial Recruiter
+    Wasteland
+    Mirrodin's Core
+
+Pack 1 pick 9:
+    Gurmag Angler
+    Blast Zone
+--> Fervent Champion
+    Adarkar Wastes
+    Eureka
+    Carrion Feeder
+    Collective Brutality
+
+Pack 1 pick 10:
+    Languish
+    Deceiver Exarch
+    Trygon Predator
+--> Thirst for Knowledge
+    Moat
+    Branchloft Pathway // Boulderloft Pathway
+
+Pack 1 pick 11:
+    Cragcrown Pathway // Timbercrown Pathway
+    Eladamri's Call
+    Hornet Queen
+--> Yahenni, Undying Partisan
+    Talisman of Unity
+
+Pack 1 pick 12:
+    Dualcaster Mage
+    Regicide
+    Search for Azcanta // Azcanta, the Sunken Ruin
+--> Kitesail Freebooter
+
+Pack 1 pick 13:
+    Inkwell Leviathan
+--> Bloodsoaked Champion
+    Settle the Wreckage
+
+Pack 1 pick 14:
+--> Scrapheap Scrounger
+    Dauntless Bodyguard
+
+Pack 1 pick 15:
+--> Mana Tithe
+
+------ KHM ------
+
+Pack 2 pick 1:
+    Siren Stormtamer
+    Avacyn, Angel of Hope
+    Hymn to Tourach
+    Needleverge Pathway // Pillarverge Pathway
+    Dragonlord Atarka
+    Ashnod's Altar
+--> Blood Crypt
+    Sea Gate Stormcaller
+    Eidolon of the Great Revel
+    Thragtusk
+    Reflecting Pool
+    Liliana's Triumph
+    Young Pyromancer
+    Wandering Fumarole
+    Act of Aggression
+
+Pack 2 pick 2:
+    Joraga Treespeaker
+    Blood Moon
+    Yorion, Sky Nomad
+    Shrine of Burning Rage
+    Expansion // Explosion
+    Qasali Pridemage
+--> Murderous Cut
+    The Scarab God
+    Umezawa's Jitte
+    Barkchannel Pathway // Tidechannel Pathway
+    Sidisi, Undead Vizier
+    Broken Wings
+    Hullbreacher
+    Soulfire Grand Master
+
+Pack 2 pick 3:
+    Rakdos's Return
+    Kodama's Reach
+    Sigarda, Host of Herons
+    Gruul Signet
+--> Vial Smasher the Fierce
+    Wildfire
+    Paradox Engine
+    Damnation
+    Leonin Relic-Warder
+    Batterskull
+    Remand
+    Regrowth
+    Knight of the Reliquary
+
+Pack 2 pick 4:
+    Ghave, Guru of Spores
+    Kenrith, the Returned King
+    Baleful Strix
+    Worldly Tutor
+--> Feldon of the Third Path
+    Dissipate
+    Toxic Deluge
+    Swords to Plowshares
+    Sphinx's Tutelage
+    Snuff Out
+    Kiki-Jiki, Mirror Breaker
+    Azorius Signet
+
+Pack 2 pick 5:
+    Agadeem's Awakening // Agadeem, the Undercrypt
+    Lumbering Falls
+    Beast Whisperer
+    Celestial Colonnade
+    Firebolt
+--> Mirage Mirror
+    Ashen Rider
+    Thalia, Heretic Cathar
+    Barrin, Tolarian Archmage
+    Treasure Cruise
+    Armageddon
+
+Pack 2 pick 6:
+    Chrome Mox
+    Parallax Wave
+    Mystical Tutor
+    Manglehorn
+    Brushland
+    Nadir Kraken
+    Seasoned Pyromancer
+    Tezzeret the Seeker
+--> Hypnotic Specter
+    Nicol Bolas, Planeswalker
+
+Pack 2 pick 7:
+    Casualties of War
+--> Mutavault
+    Emrakul, the Aeons Torn
+    Kitchen Finks
+    Edric, Spymaster of Trest
+    Disenchant
+    Rampaging Ferocidon
+    Scavenging Ooze
+    Viscera Seer
+
+Pack 2 pick 8:
+    Avacyn, Angel of Hope
+    Hymn to Tourach
+    Needleverge Pathway // Pillarverge Pathway
+    Ashnod's Altar
+    Eidolon of the Great Revel
+    Thragtusk
+--> Liliana's Triumph
+    Wandering Fumarole
+
+Pack 2 pick 9:
+    Shrine of Burning Rage
+    Expansion // Explosion
+    Qasali Pridemage
+--> The Scarab God
+    Umezawa's Jitte
+    Sidisi, Undead Vizier
+    Hullbreacher
+
+Pack 2 pick 10:
+--> Rakdos's Return
+    Sigarda, Host of Herons
+    Wildfire
+    Leonin Relic-Warder
+    Batterskull
+    Knight of the Reliquary
+
+Pack 2 pick 11:
+    Ghave, Guru of Spores
+    Kenrith, the Returned King
+    Worldly Tutor
+    Dissipate
+--> Snuff Out
+
+Pack 2 pick 12:
+    Agadeem's Awakening // Agadeem, the Undercrypt
+    Celestial Colonnade
+    Treasure Cruise
+--> Armageddon
+
+Pack 2 pick 13:
+    Parallax Wave
+    Nadir Kraken
+--> Tezzeret the Seeker
+
+Pack 2 pick 14:
+    Kitchen Finks
+--> Viscera Seer
+
+Pack 2 pick 15:
+--> Hymn to Tourach
+
+------ KHM ------
+
+Pack 3 pick 1:
+    Bloom Tender
+    Glorious Protector
+    Balance
+    Force of Negation
+    Wishclaw Talisman
+    Beanstalk Giant // Fertile Footsteps
+    Bloodbraid Elf
+    Craterhoof Behemoth
+    Luminarch Ascension
+    Yawgmoth's Bargain
+    Light Up the Stage
+    Unexpectedly Absent
+    Overgrown Tomb
+    Oko, Thief of Crowns
+--> Unburial Rites
+
+Pack 3 pick 2:
+    Pack Rat
+    Underground River
+    Natural Order
+    Mimic Vat
+    Urborg, Tomb of Yawgmoth
+    Bomat Courier
+    Iona, Shield of Emeria
+    Malakir Rebirth // Malakir Mire
+    Nissa, Who Shakes the World
+--> Recurring Nightmare
+    Trinket Mage
+    Glorybringer
+    Luminarch Aspirant
+    Lightning Bolt
+
+Pack 3 pick 3:
+    Bitterblossom
+    Hydroid Krasis
+    Stirring Wildwood
+    Phyrexian Arena
+    Undiscovered Paradise
+    Woodfall Primus
+    Glen Elendra Archmage
+    Phyrexian Revoker
+    Blightstep Pathway // Searstep Pathway
+--> Brimaz, King of Oreskos
+    Lim-Dûl's Vault
+    Bazaar of Baghdad
+    Wrath of God
+
+Pack 3 pick 4:
+    Sun Titan
+    Rancor
+    Clearwater Pathway // Murkwater Pathway
+    Oblivion Stone
+    Compulsive Research
+    Yawgmoth, Thran Physician
+    Avalanche Riders
+    Eldrazi Displacer
+--> Nullpriest of Oblivion
+    Cascading Cataracts
+    Orzhov Signet
+    Golgari Signet
+
+Pack 3 pick 5:
+    Ashiok, Nightmare Weaver
+    Pestermite
+    Ancient Grudge
+    Library of Alexandria
+    Charming Prince
+    Mind Stone
+    Condescend
+    Hangarback Walker
+    Bolas's Citadel
+--> Griselbrand
+    Primal Command
+
+Pack 3 pick 6:
+    Kozilek, Butcher of Truth
+    Phyrexian Obliterator
+--> Entomb
+    Giant Killer // Chop Down
+    Kytheon, Hero of Akros // Gideon, Battle-Forged
+    Tolarian Academy
+    Ancestral Vision
+    Day of Judgment
+    Woe Strider
+    Cavern of Souls
+
+Pack 3 pick 7:
+    Soltari Champion
+--> Animate Dead
+    Scroll Rack
+    Recruiter of the Guard
+    Rankle, Master of Pranks
+    Clever Impersonator
+    Maze of Ith
+    Sulfuric Vortex
+    Tundra
+
+Pack 3 pick 8:
+    Balance
+--> Force of Negation
+    Wishclaw Talisman
+    Bloodbraid Elf
+    Luminarch Ascension
+    Yawgmoth's Bargain
+    Light Up the Stage
+    Unexpectedly Absent
+
+Pack 3 pick 9:
+    Pack Rat
+    Underground River
+    Natural Order
+    Urborg, Tomb of Yawgmoth
+    Bomat Courier
+--> Malakir Rebirth // Malakir Mire
+    Trinket Mage
+
+Pack 3 pick 10:
+    Stirring Wildwood
+    Phyrexian Arena
+    Undiscovered Paradise
+    Phyrexian Revoker
+    Lim-Dûl's Vault
+--> Bazaar of Baghdad
+
+Pack 3 pick 11:
+    Clearwater Pathway // Murkwater Pathway
+    Oblivion Stone
+    Yawgmoth, Thran Physician
+    Cascading Cataracts
+--> Orzhov Signet
+
+Pack 3 pick 12:
+    Condescend
+    Hangarback Walker
+    Bolas's Citadel
+--> Primal Command
+
+Pack 3 pick 13:
+--> Kozilek, Butcher of Truth
+    Tolarian Academy
+    Cavern of Souls
+
+Pack 3 pick 14:
+--> Recruiter of the Guard
+    Sulfuric Vortex
+
+Pack 3 pick 15:
+--> Wishclaw Talisman
+

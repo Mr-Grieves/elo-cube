@@ -1,0 +1,466 @@
+Event #: 2487ce754105_1615435189408
+Time: Thu, 11 Mar 2021 03:59:49 GMT
+Players:
+    McLeod9
+    Chronosmash
+--> Shnuu
+    MrGrieves
+    VonDYANA
+    Allen
+
+------ KHM ------
+
+Pack 1 pick 1:
+    Goblin Cratermaker
+    Savai Triome
+    Searing Blaze
+    Walking Ballista
+    Goblin Dark-Dwellers
+    Metalworker
+    Den Protector
+    Battlefield Forge
+    Shalai, Voice of Plenty
+    Rampaging Ferocidon
+--> Knight of the Ebon Legion
+    Mishra's Workshop
+    Sarulf, Realm Eater
+    Gitaxian Probe
+    Capsize
+
+Pack 1 pick 2:
+    Burst Lightning
+    Dack Fayden
+    Urborg, Tomb of Yawgmoth
+--> Flame Slash
+    Ajani Vengeant
+    Sylvan Library
+    Rakdos's Return
+    Worldly Tutor
+    Leonin Relic-Warder
+    Abrupt Decay
+    Spear of Heliod
+    Overwhelmed Apprentice
+    Flickerwisp
+    Nighthawk Scavenger
+
+Pack 1 pick 3:
+    Spark Double
+    Woe Strider
+    Lightning Mauler
+    Soulherder
+    Tangle Wire
+--> Yawgmoth's Will
+    Selfless Spirit
+    Collected Company
+    Search for Azcanta // Azcanta, the Sunken Ruin
+    Arcane Sanctum
+    Pia and Kiran Nalaar
+    Ancient Tomb
+    Charming Prince
+
+Pack 1 pick 4:
+    Hengegate Pathway // Mistgate Pathway
+    Putrid Imp
+    Arid Mesa
+    Brain Freeze
+    Reclamation Sage
+--> Grave Titan
+    Felidar Guardian
+    Evolution Sage
+    Barkchannel Pathway // Tidechannel Pathway
+    Yarok, the Desecrated
+    Questing Beast
+    Usher of the Fallen
+
+Pack 1 pick 5:
+    Grand Abolisher
+    Razaketh, the Foulblooded
+--> Kalitas, Traitor of Ghet
+    Grim Lavamancer
+    Primal Command
+    Sigarda, Host of Herons
+    Shatterskull Smashing // Shatterskull, the Hammer Pass
+    Falkenrath Aristocrat
+    Brightclimb Pathway // Grimclimb Pathway
+    Venser, Shaper Savant
+    Regicide
+
+Pack 1 pick 6:
+    Shivan Reef
+    Faith's Fetters
+    Intuition
+    Mutavault
+    Unexpectedly Absent
+--> Dismember
+    Dire Fleet Daredevil
+    Tundra
+    Lim-Dûl's Vault
+    Sylvan Caryatid
+
+Pack 1 pick 7:
+    Goblin Cratermaker
+--> Savai Triome
+    Searing Blaze
+    Goblin Dark-Dwellers
+    Metalworker
+    Den Protector
+    Shalai, Voice of Plenty
+    Rampaging Ferocidon
+    Mishra's Workshop
+
+Pack 1 pick 8:
+    Urborg, Tomb of Yawgmoth
+    Sylvan Library
+    Worldly Tutor
+    Leonin Relic-Warder
+    Spear of Heliod
+    Overwhelmed Apprentice
+--> Flickerwisp
+    Nighthawk Scavenger
+
+Pack 1 pick 9:
+    Woe Strider
+--> Lightning Mauler
+    Soulherder
+    Search for Azcanta // Azcanta, the Sunken Ruin
+    Arcane Sanctum
+    Pia and Kiran Nalaar
+    Charming Prince
+
+Pack 1 pick 10:
+    Putrid Imp
+    Reclamation Sage
+--> Felidar Guardian
+    Barkchannel Pathway // Tidechannel Pathway
+    Yarok, the Desecrated
+    Questing Beast
+
+Pack 1 pick 11:
+--> Grim Lavamancer
+    Sigarda, Host of Herons
+    Falkenrath Aristocrat
+    Brightclimb Pathway // Grimclimb Pathway
+    Regicide
+
+Pack 1 pick 12:
+    Shivan Reef
+    Intuition
+--> Mutavault
+    Unexpectedly Absent
+
+Pack 1 pick 13:
+--> Goblin Dark-Dwellers
+    Metalworker
+    Shalai, Voice of Plenty
+
+Pack 1 pick 14:
+    Worldly Tutor
+--> Leonin Relic-Warder
+
+Pack 1 pick 15:
+--> Arcane Sanctum
+
+------ KHM ------
+
+Pack 2 pick 1:
+    Thragtusk
+    Kytheon, Hero of Akros // Gideon, Battle-Forged
+    Remove Soul
+    Glen Elendra Archmage
+    Rakdos Cackler
+    Intruder Alarm
+    Fyndhorn Elves
+    Thoughtseize
+    Agent of Treachery
+    Abrade
+    Soul Shatter
+    Golgari Signet
+--> Mana Crypt
+    Taiga
+    Shark Typhoon
+
+Pack 2 pick 2:
+    Skyclave Apparition
+    Mother of Runes
+    Reveillark
+    Siege-Gang Commander
+    Bolas's Citadel
+    Migration Path
+    Aurelia, the Warleader
+    Scalding Tarn
+    Ulamog, the Ceaseless Hunger
+    Seasoned Hallowblade
+    Ponder
+    Phyrexian Obliterator
+    Thrun, the Last Troll
+--> Kitesail Freebooter
+
+Pack 2 pick 3:
+--> Liliana's Triumph
+    Rampant Growth
+    Embereth Shieldbreaker // Battle Display
+    Recruiter of the Guard
+    Jace, Vryn's Prodigy // Jace, Telepath Unbound
+    Karplusan Forest
+    Avacyn's Pilgrim
+    Sprite Dragon
+    Apostle's Blessing
+    Firespout
+    Gideon Blackblade
+    Emeria, the Sky Ruin
+    Lumbering Falls
+
+Pack 2 pick 4:
+    Angel of Sanctions
+    Eidolon of the Great Revel
+    Karn's Bastion
+    Skymarcher Aspirant
+    Mystic Confluence
+    Thalia, Guardian of Thraben
+--> Dance of the Dead
+    Restoration Angel
+    Adanto Vanguard
+    Burning of Xinye
+    Xenagos, God of Revels
+    Go for Blood
+
+Pack 2 pick 5:
+    Grim Monolith
+    Myr Battlesphere
+    Stasis
+--> Wheel of Fortune
+    Stirring Wildwood
+    Soulfire Grand Master
+    Condescend
+    Toxic Deluge
+    Noble Hierarch
+    Blast Zone
+    Worn Powerstone
+
+Pack 2 pick 6:
+    Goblin Rabblemaster
+    Mesmeric Fiend
+--> Noxious Gearhulk
+    Archon of Emeria
+    Qasali Pridemage
+    Shrine of Burning Rage
+    Jungle Shrine
+    Sakura-Tribe Elder
+    Mimic Vat
+    Wurmcoil Engine
+
+Pack 2 pick 7:
+    Thragtusk
+    Kytheon, Hero of Akros // Gideon, Battle-Forged
+    Remove Soul
+    Intruder Alarm
+    Fyndhorn Elves
+    Thoughtseize
+    Agent of Treachery
+--> Soul Shatter
+    Taiga
+
+Pack 2 pick 8:
+    Skyclave Apparition
+    Mother of Runes
+--> Reveillark
+    Bolas's Citadel
+    Migration Path
+    Ulamog, the Ceaseless Hunger
+    Seasoned Hallowblade
+    Phyrexian Obliterator
+
+Pack 2 pick 9:
+    Rampant Growth
+    Recruiter of the Guard
+    Karplusan Forest
+    Avacyn's Pilgrim
+    Apostle's Blessing
+    Firespout
+--> Emeria, the Sky Ruin
+
+Pack 2 pick 10:
+--> Angel of Sanctions
+    Karn's Bastion
+    Skymarcher Aspirant
+    Adanto Vanguard
+    Burning of Xinye
+    Xenagos, God of Revels
+
+Pack 2 pick 11:
+    Grim Monolith
+    Stasis
+    Stirring Wildwood
+    Soulfire Grand Master
+--> Noble Hierarch
+
+Pack 2 pick 12:
+--> Mesmeric Fiend
+    Archon of Emeria
+    Qasali Pridemage
+    Jungle Shrine
+
+Pack 2 pick 13:
+    Thragtusk
+--> Kytheon, Hero of Akros // Gideon, Battle-Forged
+    Thoughtseize
+
+Pack 2 pick 14:
+--> Bolas's Citadel
+    Migration Path
+
+Pack 2 pick 15:
+--> Karplusan Forest
+
+------ KHM ------
+
+Pack 3 pick 1:
+    Magma Jet
+    Koth of the Hammer
+    Eldrazi Displacer
+    Survival of the Fittest
+    Settle the Wreckage
+    Silverblade Paladin
+--> Gideon of the Trials
+    Student of Warfare
+    Geist of Saint Traft
+    Coercive Portal
+    Raging Ravine
+    Bayou
+    Kozilek, Butcher of Truth
+    Opposition Agent
+    Riftwing Cloudskate
+
+Pack 3 pick 2:
+    Kolaghan's Command
+    Fatal Push
+    Skyclave Relic
+    Savannah
+    Crash Through
+    Fireblast
+--> Sun Titan
+    Mana Tithe
+    Opt
+    Zagoth Triome
+    Lightning Skelemental
+    Wrath of God
+    Chord of Calling
+    Scavenging Ooze
+
+Pack 3 pick 3:
+    Avenger of Zendikar
+--> Liliana, Death's Majesty
+    Kodama's Reach
+    Felidar Retreat
+    Phyrexian Arena
+    Repeal
+    Crystalline Crawler
+    Lavinia of the Tenth
+    Wear // Tear
+    Kazuul's Fury // Kazuul's Cliffs
+    Grafted Wargear
+    Through the Breach
+    Ulamog, the Infinite Gyre
+
+Pack 3 pick 4:
+    Elves of Deep Shadow
+    Crop Rotation
+    Bonesplitter
+    Sphinx's Tutelage
+    Innocent Blood
+    Fractured Identity
+    Narset, Parter of Veils
+    Ashiok, Nightmare Weaver
+--> Clever Impersonator
+    Winter Orb
+    Forsake the Worldly
+    Lavaclaw Reaches
+
+Pack 3 pick 5:
+    Purphoros, God of the Forge
+    Llanowar Elves
+    Dramatic Reversal
+    Brazen Borrower // Petty Theft
+--> Anguished Unmaking
+    Sidisi, Undead Vizier
+    Phyrexian Metamorph
+    Dryad of the Ilysian Grove
+    Talisman of Dominance
+    Yavimaya Coast
+    Expansion // Explosion
+
+Pack 3 pick 6:
+    Radha, Heart of Keld
+    Lightning Greaves
+    Temple Garden
+    Oona's Prowler
+    Nullpriest of Oblivion
+--> Orzhov Signet
+    Palinchron
+    Miscalculation
+    Dark Ritual
+    Mirrodin's Core
+
+Pack 3 pick 7:
+    Eldrazi Displacer
+    Survival of the Fittest
+--> Settle the Wreckage
+    Silverblade Paladin
+    Geist of Saint Traft
+    Raging Ravine
+    Bayou
+    Kozilek, Butcher of Truth
+    Riftwing Cloudskate
+
+Pack 3 pick 8:
+    Fatal Push
+--> Skyclave Relic
+    Savannah
+    Crash Through
+    Opt
+    Zagoth Triome
+    Lightning Skelemental
+    Chord of Calling
+
+Pack 3 pick 9:
+    Kodama's Reach
+    Phyrexian Arena
+    Repeal
+--> Crystalline Crawler
+    Lavinia of the Tenth
+    Wear // Tear
+    Through the Breach
+
+Pack 3 pick 10:
+    Elves of Deep Shadow
+    Crop Rotation
+    Innocent Blood
+    Ashiok, Nightmare Weaver
+    Winter Orb
+--> Lavaclaw Reaches
+
+Pack 3 pick 11:
+    Llanowar Elves
+    Dramatic Reversal
+    Brazen Borrower // Petty Theft
+--> Phyrexian Metamorph
+    Yavimaya Coast
+
+Pack 3 pick 12:
+    Oona's Prowler
+--> Nullpriest of Oblivion
+    Palinchron
+    Mirrodin's Core
+
+Pack 3 pick 13:
+--> Eldrazi Displacer
+    Raging Ravine
+    Bayou
+
+Pack 3 pick 14:
+--> Crash Through
+    Chord of Calling
+
+Pack 3 pick 15:
+--> Phyrexian Arena
+
